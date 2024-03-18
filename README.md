@@ -1,3 +1,4 @@
+![logo](https://github.com/Yogeswar03/Yogeswar03/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Yogeswar Reddy</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
